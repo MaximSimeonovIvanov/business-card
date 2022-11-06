@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+}
+
+.img{
+    width: 120px;
+}
+
+.card{
+    border: 1px solid blueviolet;
+    padding: 20px;
+}
